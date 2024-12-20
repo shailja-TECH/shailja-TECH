@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shailja-TECH
+- 👋 Hi, I’m @shailja
 - 👀 I’m interested in DSA,web -development,cloud,data analytics.
 - 🌱 I’m currently learning data analytics.
 - 😄 Pronouns: SHE/HER
